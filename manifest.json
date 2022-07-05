@@ -1,0 +1,9 @@
+{
+    "name": "Comment Digger",
+    "description": "Finds and classifies HTML/CSS/JS comments based on their contents",
+    "version": "1.0",
+    "manifest_version": 3
+    "background": {
+        "service_worker": "app.js"
+      }
+}
